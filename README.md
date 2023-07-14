@@ -1,4 +1,4 @@
-###########Super Store Data Analytics Project
+                    Super Store Data Analytics Project
 
 This repository contains a data analytics project on Super Store, aimed at analyzing and extracting insights from the store's sales and customer data. The project leverages various data analytics techniques and tools to provide valuable information to stakeholders for decision-making and improving business performance.
 
