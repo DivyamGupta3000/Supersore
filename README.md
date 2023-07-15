@@ -29,7 +29,7 @@ Data Modeling: Apply various data modeling techniques to analyze the data. This 
 Visualization and Reporting: Present the results of the analysis through visually appealing and informative reports. Use interactive dashboards, charts, and graphs to communicate the insights effectively to stakeholders.
 
 
-#OUTPUT
+#SCREENSHOT-
 ![Screenshot (11)](https://github.com/DivyamGupta3000/Supersore/assets/108221297/fda29d4f-1bf5-403f-b384-8ea4ebfb65d8)
 
 ![Screenshot (12)](https://github.com/DivyamGupta3000/Supersore/assets/108221297/f8a268e2-eff4-40e9-b50a-03f1e54cb65f)
