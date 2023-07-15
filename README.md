@@ -3,6 +3,7 @@
 
 This repository contains a data analytics project on Super Store, aimed at analyzing and extracting insights from the store's sales and customer data. The project leverages various data analytics techniques and tools to provide valuable information to stakeholders for decision-making and improving business performance.
 
+
 ## Implementation
 The implementation of this project involves several steps:
 
@@ -23,6 +24,8 @@ Once the data is prepared, various machine learning algorithms and statistical m
 
 #### Visualization and Reporting:
 Present the results of the analysis through visually appealing and informative reports.
+
+
 ## Dependencies
 
 The project has the following dependencies:
@@ -41,9 +44,12 @@ seaborn
 
 scikit-learn
 
+
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal and commercial purposes.
+
 
 
 ## Acknowledgments
@@ -51,6 +57,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 I would like to express my gratitude to IBM Skill Build for providing the necessary data and resources for this project. 
 
 Happy analyzing!
+
+
 
 ## Screenshots
 
